@@ -13,4 +13,4 @@ Check it out here:
 
 - `yemimi.html` — Main web page
 - `README.md` — Introduction
-- 'didyouforgetme.jpg', '전예림.jpg' - image
+- `didyouforgetme.jpg`, `전예림.jpg` - Image
