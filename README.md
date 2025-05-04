@@ -12,4 +12,4 @@ Check it out here:
 ## 📁 Files Included
 
 - `yemimi.html` — Main web page
-- `README.md` — Project documentation
+- `README.md` — Introduction
