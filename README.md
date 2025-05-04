@@ -7,7 +7,7 @@ Take a look around and don’t hesitate to reach out 😉
 ## 🔗 Live Site
 
 Check it out here:  
-👉 [https://yemimii.github.io/my-website/](https://yemimii.github.io/my-website/)
+👉 [https://github.com/yemimii/my-website.git](https://github.com/yemimii/my-website.git)
 
 ## 📁 Files Included
 
